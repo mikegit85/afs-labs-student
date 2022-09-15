@@ -1,4 +1,4 @@
---TESTING LAB 6
+--TESTING LAB 7
 --
 -- PostgreSQL database dump
 --
